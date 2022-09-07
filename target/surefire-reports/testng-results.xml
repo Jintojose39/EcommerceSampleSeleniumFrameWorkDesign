@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-07T12:16:14 IST" name="Suite" finished-at="2022-09-07T12:16:19 IST" duration-ms="5069">
+    <groups>
+    </groups>
+    <test started-at="2022-09-07T12:16:14 IST" name="Smoke" finished-at="2022-09-07T12:16:14 IST" duration-ms="11">
+    </test> <!-- Smoke -->
+    <test started-at="2022-09-07T12:16:14 IST" name="Ecommerce ErrorValidation" finished-at="2022-09-07T12:16:19 IST" duration-ms="5069">
+      <class name="rahulshettyacademy.LoginPageErrorValidationTest">
+        <test-method is-config="true" signature="Intialize()[pri:0, instance:rahulshettyacademy.LoginPageErrorValidationTest@4082ba93]" started-at="2022-09-07T12:16:14 IST" name="Intialize" finished-at="2022-09-07T12:16:18 IST" duration-ms="3905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Intialize -->
+        <test-method signature="ErrormsgValidation()[pri:1, instance:rahulshettyacademy.LoginPageErrorValidationTest@4082ba93]" started-at="2022-09-07T12:16:18 IST" name="ErrormsgValidation" finished-at="2022-09-07T12:16:19 IST" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ErrormsgValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.LoginPageErrorValidationTest@4082ba93]" started-at="2022-09-07T12:16:19 IST" name="tearDown" finished-at="2022-09-07T12:16:19 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- rahulshettyacademy.LoginPageErrorValidationTest -->
+    </test> <!-- Ecommerce ErrorValidation -->
+  </suite> <!-- Suite -->
+</testng-results>
